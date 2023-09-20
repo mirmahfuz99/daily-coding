@@ -14,3 +14,5 @@ def insert(intervals, new_interval):
     return res           
 
 print(insert([[1, 3], [6,9]], [2, 5]))   
+
+https://www.youtube.com/watch?v=A8NUOmlwOlM
