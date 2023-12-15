@@ -17,7 +17,7 @@ class Solution:
                 right = right - 1
             else:
                 left = left + 1
-                right = right + 1        
+                right = right - 1        
 
 
         return res
